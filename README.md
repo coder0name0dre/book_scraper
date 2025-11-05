@@ -83,7 +83,7 @@ The script is organised into small, single-purpose functions with a concise `__m
 ## Output files
 
 -   `books.csv` --- CSV file with columns:
-    `Title,Price,Availability,Rating,URL`.
+    `Title, Price, Availability, Rating, URL`.
 -   `books.json` --- JSON array (records) with the same fields.
 
 ---
