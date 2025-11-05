@@ -18,5 +18,33 @@ Required Python packages:
 
 ---
 
+## Installation
+
+1. Clone this repository from your terminal:
+
+```
+git clone https://github.com/dre86dre/book_scraper.git
+```
+
+2. Navigate to the folder:
+
+```
+cd book_scraper
+```
+
+3. (Optional) Create and activate a virtual environment named **bs4_env**:
+
+```
+python -m venv bs4_env
+
+# macOS / Linux
+source bs4_env/bin/activate
+
+# Windows (PowerShell)
+bs4_env\Scripts\Activate.ps1
+```
+
+---
+
 
 
