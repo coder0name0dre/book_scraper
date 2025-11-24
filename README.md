@@ -23,7 +23,7 @@ Required Python packages:
 1. Clone this repository from your terminal:
 
 ```
-git clone https://github.com/dre86dre/book_scraper.git
+git clone https://github.com/coder0name0dre/book_scraper.git
 ```
 
 2. Navigate to the folder:
@@ -90,5 +90,5 @@ The script is organised into small, single-purpose functions with a concise `__m
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/dre86dre/book_scraper/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/coder0name0dre/book_scraper/blob/main/LICENSE).
 
